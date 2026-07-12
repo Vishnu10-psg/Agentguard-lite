@@ -1,0 +1,6 @@
+pandas
+networkx
+flask
+matplotlib
+plotly
+streamlit
